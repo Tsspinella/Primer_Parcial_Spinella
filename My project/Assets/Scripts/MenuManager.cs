@@ -5,12 +5,17 @@ using UnityEngine.SceneManagement;
 
 public class MenuManager : MonoBehaviour
 {
- public void Play()
+ public void Level1()
     {
         SceneManager.LoadScene(1);
         Time.timeScale = 1.0f;
     }
-public void Exit()
+    public void Level2()
+    {
+        SceneManager.LoadScene(2);
+        Time.timeScale = 1.0f;
+    }
+    public void Exit()
     {
         Application.Quit();
     }

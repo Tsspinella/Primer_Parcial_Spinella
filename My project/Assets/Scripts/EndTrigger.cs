@@ -7,6 +7,6 @@ public class Colision_Player : MonoBehaviour
 
     void OnTriggerEnter ()
     {
-        Debug.Log("enter Collision.");
+        Debug.Log("Salida");
     }
 }
