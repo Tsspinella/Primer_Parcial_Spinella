@@ -1836,7 +1836,7 @@ GameObject:
   - component: {fileID: 662004168}
   - component: {fileID: 662004167}
   m_Layer: 5
-  m_Name: Button (2)
+  m_Name: Salir
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2430,7 +2430,7 @@ GameObject:
   - component: {fileID: 794275717}
   - component: {fileID: 794275716}
   m_Layer: 5
-  m_Name: Text (TMP)
+  m_Name: Texto
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5367,7 +5367,7 @@ GameObject:
   - component: {fileID: 1624995672}
   - component: {fileID: 1624995671}
   m_Layer: 5
-  m_Name: Text (TMP)
+  m_Name: Texto
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
